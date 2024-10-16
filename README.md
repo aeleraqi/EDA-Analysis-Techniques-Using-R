@@ -13,7 +13,7 @@ This repository contains a case study showcasing how to apply Exploratory Data A
 ## 📊 Data Source
 
 The Titanic dataset used in this analysis is publicly available and can be accessed via:
-- [Titanic Dataset on GitHub](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv)
+- [Titanic Dataset on GitHub](https://github.com/aeleraqi/EDA-Analysis-Techniques-Using-R/blob/main/titanic.csv)
 
 ## 🛠️ Analysis Techniques
 
