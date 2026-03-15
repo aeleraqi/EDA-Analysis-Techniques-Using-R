@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.httr-oauth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
